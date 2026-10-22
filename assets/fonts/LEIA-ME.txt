@@ -1,0 +1,2 @@
+Coloque aqui o arquivo da fonte de títulos da Allora com o nome:
+allora-display.woff2  (ou .otf / .ttf)
